@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raiferdy541&label=Profile%20views&color=0e75b6&style=flat" alt="raiferdy541" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=raiferdy541" alt="raiferdy541" /></a> </p>
-
 - 👨‍💻 All of my projects are available at [raiferdy541.github.io](raiferdy541.github.io)
 
 - 📫 How to reach me **raihan.ferdyanza@gmail.com**
